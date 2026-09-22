@@ -117,4 +117,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Resumo:
+Aplicativo desenvolvido em C# Windows Forms para a disciplina
+de ADB with .NET da FIAP 2TDSPS. Consiste em uma calculadora 
+básica semi-científica com operações aritméticas, raiz quadrada, 
+potenciação e suporte a números decimais.
+</value>
+  </data>
 </root>
